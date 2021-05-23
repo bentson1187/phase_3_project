@@ -1,0 +1,11 @@
+,Feature Importances
+longitude,0.09746264013986589
+latitude,0.09561953437824411
+well_age,0.06884180022399505
+well_elevation,0.05853752586456463
+population,0.039652799288429776
+head,0.02391918791284944
+waterpoint_type_communal standpipe,0.01075124587107892
+waterpoint_type_communal standpipe multiple,0.007807805891557831
+waterpoint_type_cattle trough,0.00034508311413293784
+waterpoint_type_dam,1.506870372193317e-05
