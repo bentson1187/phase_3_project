@@ -1,2 +1,18 @@
-# phase_3_project
-Water Well Failure Classification Analysis
+# Predicting Water Well Failures in Tanzania
+
+# Overview
+
+
+# Business Problem
+
+# Data
+
+# Methods
+
+# Results
+
+# Conclusions
+
+## For More Information
+
+## Repository Structure
