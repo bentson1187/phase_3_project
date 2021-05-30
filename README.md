@@ -71,7 +71,7 @@ Due to how important a sufficient and reliable water supply is to humanity, bein
 
 ## **For More Information**
 
-Please review our full analysis in my [Jupyter Notebook](https://github.com/bentson1187/phase_3_project/blob/a269d0a37e0a12fe16d7ace0ae8eab89098626cd/Bentson,%20Brian%20Phase%203%20Project.ipynb) or my [presentation](https://github.com/bentson1187/phase_3_project/blob/a269d0a37e0a12fe16d7ace0ae8eab89098626cd/Stakeholder%20Presentation.pptx).
+Please review our full analysis in the [Jupyter Notebook](https://github.com/bentson1187/phase_3_project/blob/a269d0a37e0a12fe16d7ace0ae8eab89098626cd/Bentson,%20Brian%20Phase%203%20Project.ipynb) or [presentation](https://github.com/bentson1187/phase_3_project/blob/a269d0a37e0a12fe16d7ace0ae8eab89098626cd/Stakeholder%20Presentation.pptx). Additionally, a Tableau dashboard has been put together for exploratory data analysis [HERE](https://public.tableau.com/app/profile/brian8863/viz/TanzanianWaterWellImpactDashboard/Dashboard1).
 
 For any additional questions, please contact **Brian Bentson, bentson.brian@gmail.com**
 
@@ -82,8 +82,7 @@ Describe the structure of your repository and its contents, for example:
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── Bentson,Brian Phase 3 Project.ipynb <- Narrative documentation of analysis in Jupyter notebook
-├── Bentson, Brian Phase 3 Project - Jupyter Notebook.pdf <- PDF version of analysis
-├── Stakeholder Presentation.ppt          <- Project presentation
+├── Stakeholder Presentation.ppt        <- Project presentation
 ├── Data                                <- Both sourced externally and generated from code
 └── Images                              <- Both sourced externally and generated from code
 ```
