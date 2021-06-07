@@ -6,7 +6,7 @@
 
 The Tanzanian Ministry of Water tracks vital information on water wells in its country to best ensure citizens are provided with a continual source of fresh water. A dataset housing this crucial information can be found [HERE](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/). 
 
-I will be utilizing this dataset to train a classification model to accurately predict which water wells are not functional and also to gain insights into potential reasons for water well failures.
+I will be utilizing this dataset to train a classification model to accurately predict which water wells are not functional and also to gain insights into potential reasons for water well failures. [THIS](https://public.tableau.com/app/profile/brian8863/viz/TanzanianWaterWellImpactDashboard/Dashboard1) business insights dashboard was developed specifically for stakeholders to visually explore the dataset to gain insights.
 
 # Business Problem
 
